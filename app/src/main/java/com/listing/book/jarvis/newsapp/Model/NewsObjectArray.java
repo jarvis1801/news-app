@@ -1,0 +1,1 @@
+package com.listing.book.jarvis.newsapp.Model;import java.util.ArrayList;public class NewsObjectArray extends Object {    private ArrayList mData;    public NewsObjectArray(ArrayList data) {        mData = data;    }    public ArrayList getData() {        return mData;    }}
