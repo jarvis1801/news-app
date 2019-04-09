@@ -1,1 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><resources>    <dimen name="listing_padding">16dp</dimen>    <dimen name="item_listing_paddingHorizontal">8dp</dimen>    <dimen name="item_listing_paddingVertical">8dp</dimen></resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listing_padding">16dp</dimen>
+    <dimen name="item_listing_paddingHorizontal">8dp</dimen>
+    <dimen name="item_listing_paddingVertical">8dp</dimen>
+</resources>
